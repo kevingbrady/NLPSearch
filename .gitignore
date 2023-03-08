@@ -1,0 +1,8 @@
+.idea/
+arxiv.zip
+arxiv_processed
+arxiv_metadata
+SimilarityMatrixBuilder/*.pk
+__pycache__
+ArxivDataManager/bert
+ArxivDataManager/models

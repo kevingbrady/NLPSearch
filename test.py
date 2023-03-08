@@ -1,0 +1,7 @@
+from gensim.corpora import Dictionary
+
+if __name__ == '__main__':
+
+    dictionary = Dictionary()
+    docs = ['bal', 'az', 'berger', 'nadolsky', 'yuancalculation', 'prompt', 'diphoton', 'production', 'cross', 'section', 'tevatron', 'lhc', 'energy', 'page', 'figure', 'published', 'version', 'fully', 'differential', 'calculation', 'perturbative', 'quantum', 'chromodynamics', 'presented', 'production', 'massive', 'photon', 'pair', 'hadron', 'collider', 'next', 'leading', 'order', 'perturbative', 'contribution', 'quark', 'antiquark', 'gluon', 'anti', 'quark', 'gluon', 'gluon', 'subprocesses', 'included', 'well', 'order', 'resummation', 'initial', 'state', 'gluon', 'radiation', 'valid', 'next', 'next', 'leading', 'logarithmic', 'accuracy', 'region', 'phase', 'space', 'specified', 'calculation', 'reliable', 'good', 'agreement', 'demonstrated', 'data', 'fermilab', 'tevatron', 'prediction', 'made', 'detailed', 'test', 'cdf', 'data', 'prediction', 'shown', 'distribution', 'diphoton', 'pair', 'produced', 'energy', 'large', 'hadron', 'collider', 'lhc', 'distribution', 'diphoton', 'pair', 'decay', 'higgs', 'boson', 'contrasted', 'produced', 'qcd', 'process', 'lhc', 'showing', 'enhanced', 'sensitivity', 'signal', 'obtained', 'judicious', 'selection', 'event', 'hep-ph']
+    dictionary.add_documents([docs])

@@ -1,0 +1,209 @@
+{
+    "astro-ph": {
+        "desc": ["astrophysics"],
+        "GA": ["galaxies"],
+        "CO": ["cosmology", "nongalactic"],
+        "EP": ["earth", "planetary"],
+        "HE": ["high", "energy", "astrophysical", "phenomena"],
+        "IM": ["instrumentation", "methods"],
+        "SR": ["solar", "stellar"]
+    },
+    "cond-mat": {
+        "desc": ["condensed", "matter"],
+        "dis-nn": ["disordered", "systems", "neural", "networks"],
+        "mtrl-sci": ["materials", "science"],
+        "mes-hall": ["mesoscale", "nanoscale", "physics"],
+        "other": ["other"],
+        "quant-gas": ["quantam", "gases"],
+        "soft": ["soft"],
+        "stat-mech": ["statistical", "mechanics"],
+        "str-el": ["strongly", "correlated", "electrons"],
+        "supr-con": ["super", "conductivity"]
+    },
+    "gr-qc": {
+        "desc": ["general", "relativity", "quantam", "cosmology"]
+    },
+    "hep-ex": {
+        "desc": ["high", "energy", "physics", "experiment"]
+    },
+    "hep-lat": {
+        "desc": ["high", "energy", "physics", "lattice"]
+    },
+    "hep-ph": {
+        "desc": ["high", "energy", "physics", "phenomenology"]
+    },
+    "hep-th": {
+        "desc": ["high", "energy", "physics", "theory"]
+    },
+    "math-ph": {
+        "desc": ["mathematical", "physics"]
+    },
+    "nlin": {
+        "desc": ["nonlinear", "sciences"],
+        "AO": ["adaptation", "self-organizing", "systems"],
+        "CG": ["celluar", "automata", "lattice", "gases"],
+        "CD": ["chaotic", "dynamics"],
+        "SI": ["exactly", "solvable", "integrable", "systems"],
+        "PS": ["pattern", "formation", "solitons"]
+    },
+    "nucl-ex": {
+        "desc": ["nuclear", "experiment"]
+    },
+    "nucl-th": {
+        "desc": ["nuclear", "theory"]
+    },
+    "physics": {
+        "desc": ["physics"],
+        "acc-ph": ["accelerator"],
+        "app-ph": ["applied"],
+        "ao-ph": ["atmospheric", "oceanic"],
+        "atom-ph": ["atomic"],
+        "atm-clus": ["atomic", "molecular", "clusters"],
+        "bio-ph": ["biological"],
+        "chem-ph": ["chemical"],
+        "class-ph": ["classical"],
+        "comp-ph": ["computational"],
+        "data-an": ["data", "analysis", "statistics", "probability"],
+        "flu-dyn": ["fluid", "dynamics"],
+        "gen-ph": ["general"],
+        "geo-ph": ["geophysics"],
+        "hist-ph": ["history", "philosophy"],
+        "ins-det": ["instrumentation", "detectors"],
+        "med-ph": ["medical"],
+        "optics": ["optics"],
+        "ed-ph": ["education"],
+        "soc-ph": ["society"],
+        "plasm-ph": ["plasma"],
+        "pop-ph": ["popular"],
+        "space-ph": ["space"]
+    },
+    "quant-ph": {
+        "desc": ["quantam", "physics"]
+    },
+    "math": {
+        "desc": ["math"],
+        "AG": ["algebraic", "geometry"],
+        "AT": ["algebraic", "topology"],
+        "AP": ["analysis", "pde"],
+        "CT": ["category", "theory"],
+        "CA": ["classical", "analysis", "ode"],
+        "CO": ["combinatorics"],
+        "AC": ["commutative", "algebra"],
+        "CV": ["complex", "variables"],
+        "DG": ["differential", "gemoetry"],
+        "DS": ["dynamical", "systems"],
+        "FA": ["functional", "analysis"],
+        "GM": ["general", "mathematics"],
+        "GN": ["general", "topology"],
+        "GT": ["geometric", "topology"],
+        "GR": ["group", "theory"],
+        "HO": ["history", "overview"],
+        "IT": ["information", "theory"],
+        "KT": ["ktheory", "homology"],
+        "LO": ["logic"],
+        "MP": ["mathematical", "physics"],
+        "MG": ["metric", "geometry"],
+        "NT": ["number", "theory"],
+        "NA": ["numerical", "analysis"],
+        "OA": ["operator", "algebras"],
+        "OC": ["optimization", "control"],
+        "PR": ["probability"],
+        "QA": ["quantam", "algebra"],
+        "RT": ["representation", "theory"],
+        "RA": ["rings", "algebras"],
+        "SP": ["spectral", "theory"],
+        "ST": ["statistics", "theory"],
+        "SG": ["symplectic", "geometry"]
+    },
+    "cs": {
+        "desc": ["computer", "science"],
+        "AI": ["artificial", "intelligence"],
+        "CL": ["computation", "language"],
+        "CC": ["computational", "complexity"],
+        "CE": ["computational", "engineering", "finance", "science"],
+        "CG": ["computational", "geometry"],
+        "GT": ["game", "theory"],
+        "CV": ["computer", "vision", "pattern", "recognition"],
+        "CY": ["computers", "society"],
+        "CR": ["cryptography", "security"],
+        "DS": ["data", "structures", "algorithms"],
+        "DB": ["databases"],
+        "DL": ["digital", "libraries"],
+        "DM": ["discrete", "mathematics"],
+        "DC": ["distributed", "parallel", "cluster", "computing"],
+        "ET": ["emerging", "technologies"],
+        "FL": ["formal", "languages", "automata", "theory"],
+        "GL": ["general", "literature"],
+        "GR": ["graphics"],
+        "AR": ["hardware", "architecture"],
+        "HC": ["human", "computer", "interaction"],
+        "IR": ["information", "retrieval"],
+        "IT": ["information", "theory"],
+        "LO": ["logic"],
+        "LG": ["machine", "learning"],
+        "MS": ["mathematical", "software"],
+        "MA": ["multiagent", "systems"],
+        "MM": ["multimedia"],
+        "NI": ["networking", "internet", "architecture"],
+        "NE": ["neural", "evolutionary", "computing"],
+        "NA": ["nmerical", "analysis"],
+        "OS": ["operating", "systems"],
+        "OH": ["other"],
+        "PF": ["performance"],
+        "PL": ["programming", "languages"],
+        "RO": ["robotics"],
+        "SI": ["social", "information", "networks"],
+        "SE": ["software", "engineering"],
+        "SD": ["sound"],
+        "SC": ["symbolic", "computation"],
+        "SY": ["systems", "control"]
+    },
+    "q-bio": {
+        "desc": ["quantitative", "biology"],
+        "BM": ["biomolecules"],
+        "CB": ["cell", "behavior"],
+        "GN": ["genomics"],
+        "MN": ["molecular", "networks"],
+        "NC": ["neurons", "cognition"],
+        "OT": ["other"],
+        "PE": ["populations", "evolution"],
+        "QM": ["quantitative", "methods"],
+        "SC": ["subcellular", "processes"],
+        "TO": ["tissues", "organs"]
+    },
+    "q-fin": {
+        "desc": ["quantitative", "finance"],
+        "CP": ["computational"],
+        "EC": ["economics"],
+        "GN": ["general"],
+        "MF": ["mathematical"],
+        "PM": ["portfolio", "management"],
+        "PR": ["pricing", "securities"],
+        "RM": ["risk", "management"],
+        "ST": ["statistical"],
+        "TR": ["trading", "market", "microstructure"]
+    },
+    "stat": {
+        "desc": ["statistics"],
+        "AP": ["applications"],
+        "CO": ["computation"],
+        "ML": ["machine", "learning"],
+        "ME": ["methodology"],
+        "OT": ["other"],
+        "TH": ["theory"]
+    },
+    "eess": {
+        "desc": ["electrical", "engineering", "systems", "science"],
+        "AS": ["audio", "speech", "processing"],
+        "IV": ["image", "video", "processing"],
+        "SP": ["signal", "processing"],
+        "SY": ["control"]
+    },
+    "econ": {
+        "desc": ["economics"],
+        "EM": ["econometrics"],
+        "GN": ["general"],
+        "TH": "theoretical"
+    }
+
+}
